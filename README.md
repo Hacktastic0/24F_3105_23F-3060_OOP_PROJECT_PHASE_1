@@ -1,4 +1,4 @@
-# 23F-3060_OOP_PROJECT_PHASE_1
+#24F-3015, 23F-3060_OOP_PROJECT_PHASE_1
 OOP FINAL PROJECT PHASE 1 
 Medieval Society Simulation
 This C++ project simulates a medieval-style society with dynamic systems including economy, leadership, military, events, and citizens. It is structured using object-oriented programming and demonstrates interaction between various societal components.
