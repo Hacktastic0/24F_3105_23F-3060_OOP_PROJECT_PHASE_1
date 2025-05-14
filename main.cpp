@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "game.h"
 #include "multiplayer.h"
 #include <iomanip>  // for alignment
@@ -178,3 +179,13 @@ int main() {
     k2.saveGame();
     return 0;
 }
+=======
+#include "society.h"
+
+
+int main()
+{
+	Society s; 
+	s.run();
+}  
+>>>>>>> 8bf8b0fda7b0cba5d01c3a1f993d16f492920774
